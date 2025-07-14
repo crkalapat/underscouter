@@ -1,6 +1,6 @@
 # Underscouter
 
-![Underscouter 3D view](assets/3dview.jpeg)
+![Underscouter 3D view](assets/project.png)
 ![Underscouter Top view](assets/aerial.jpeg)
 ![Underscouter on table](assets/table.jpeg)
 
