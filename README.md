@@ -1,5 +1,9 @@
 # Underscouter
 
+![Underscouter 3D view](assets/3dview.jpeg)
+![Underscouter Top view](assets/aerial.jpeg)
+![Underscouter on table](assets/table.jpeg)
+
 *A Dragon Ball Z inspired headset and interactive experience*
 
 by [@crkalapat](https://github.com/crkalapat), [@DinosaurPotato534](https://github.com/DinosaurPotato534), and [@Ectopl4sm](https://github.com/Ectopl4sm)
