@@ -20,6 +20,9 @@ The possible actions are:
 - Kick (press the *kick* button as specified in firmware)
 - Punch (press the *punch* button as specified in firmware)
 
+## Video
+https://drive.google.com/file/d/1WR5M7iefT7y76TTT8s1Nuvjed3ZRp22P/view
+
 ## Usage
 
 To experience Underscouter, place the assembled headset on your face with the provided firmware using CircuitPython. Make sure that the headset microcontroller is plugged into your computer. Connect the two buttons to the other microcontroller, and connect that microcontroller to the same computer as before.
