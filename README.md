@@ -3,6 +3,7 @@
 ![Underscouter 3D view](assets/project.png)
 ![Underscouter Top view](assets/aerial.jpeg)
 ![Underscouter on table](assets/table.jpeg)
+![Wiring Diagram](https://github.com/crkalapat/underscouter/blob/main/wiring.jpg?raw=true)
 
 *A Dragon Ball Z inspired headset and interactive experience*
 
